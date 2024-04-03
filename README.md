@@ -89,11 +89,10 @@ void loop() {
 ```
 ## OUTPUT
 ## OFF
-![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/0c25a885-048c-42e9-8536-b6c9dac7a2ff)
+![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/4e2de0b2-587b-4ddd-99f0-c96d8cc338c3)
 
 ## ON
-![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/30f80ef3-1a02-4f95-b56f-52ff84edc549)
-
+![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/5878dba1-8ca5-485a-8249-03c2d941599f)
 
 ## RESULT
 Thus the design and implement a system for LED control using an Arduino microcontroller and a push button is verified successfully.
