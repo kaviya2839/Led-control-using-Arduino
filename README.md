@@ -89,7 +89,7 @@ void loop() {
 ```
 ## OUTPUT
 ## OFF
-![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/4e2de0b2-587b-4ddd-99f0-c96d8cc338c3)
+<img src="https://github.com/kaviya2839/Led-control-using-Arduino/assets/119393933/1eb4fb02-097c-4cc2-a7c2-a2bd7fb85abd" width="500" height="300">
 
 ## ON
 ![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/5878dba1-8ca5-485a-8249-03c2d941599f)
