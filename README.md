@@ -1,6 +1,6 @@
-### EX-01 Led-control-using-Arduino
-## NAME: KAVIYASHREE.S
-## REG.NO: 212222110018
+#### NAME: KAVIYASHREE.S
+#### REG.NO: 212222110018
+## EX-01 Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
