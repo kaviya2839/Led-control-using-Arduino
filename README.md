@@ -60,13 +60,13 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![image](https://github.com/kaviya2839/Led-control-using-Arduino/assets/120553351/0f9f8612-ea19-48f2-adce-8e289a471f34)
+![WhatsApp Image 2025-03-08 at 11 30 07_264238d9](https://github.com/user-attachments/assets/b7c56908-37ed-4af2-8a13-e347b6635553)
 
 
 ## PROGRAM
 ```
-const int ledPin=13;
-const int buttonPin=2;
+const int ledPin=6;
+const int buttonPin=3;
 
 int buttonState=0;
 
@@ -89,10 +89,12 @@ void loop() {
 ```
 ## OUTPUT
 ## OFF
-<img src="https://github.com/Udhayasankaran04/Led-control-using-Arduino/assets/119393933/1eb4fb02-097c-4cc2-a7c2-a2bd7fb85abd" width="500" height="300">
+<img src="[WhatsApp Image 2025-03-08 at 11 32 41_19a2db48]https://github.com/user-attachments/assets/0fa9be26-b410-4b3b-8278-bdeb7a33d99a" width="500" height="300">
+![WhatsApp Image 2025-03-08 at 11 32 41_19a2db48](https://github.com/user-attachments/assets/b8b0134b-d624-45ed-b55e-ab32b9112674)
+
 
 ## ON
-<img src="https://github.com/Udhayasankaran04/Led-control-using-Arduino/assets/119393933/c85f43c0-eac8-4c31-9f4d-03a7fb191d52" width="500" height="300">
+<img src="![WhatsApp Image 2025-03-08 at 11 34 30_33ac640d](https://github.com/user-attachments/assets/ede7744d-152b-4bcb-aeda-a2c08e0e2ed4)" width="500" height="300">
 
 ## RESULT
 Thus the design and implement a system for LED control using an Arduino microcontroller and a push button is verified successfully.
