@@ -88,12 +88,12 @@ void loop() {
 }
 ```
 ## OUTPUT
-## OFF
+## ON
 ![WhatsApp Image 2025-03-08 at 11 32 41_4971fd30](https://github.com/user-attachments/assets/b8ccff7c-7f29-4ea0-9777-5b12a3b367cd)
 
 
-## ON
+## OFF
 ![WhatsApp Image 2025-03-08 at 11 34 30_e10dfe3b](https://github.com/user-attachments/assets/75a389b8-bcd1-4b22-9b30-15dfa1e559da)
 
 ## RESULT
-Thus the design and implement a system for LED control using an Arduino microcontroller and a push button is verified successfully.
+The design and implementation of a system for LED control using an Arduino microcontroller and a push button have been successfully verified.
